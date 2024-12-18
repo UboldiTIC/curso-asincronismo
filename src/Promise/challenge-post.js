@@ -15,7 +15,7 @@ function postData(urlApi, data) {
 }
 
 const data = {
-    title: "Lompa",
+    title: "Objeto viejo",
     price: 100,
     description: "A great lompa",
     categoryId: 1,

@@ -8,3 +8,4 @@ Prof. Oscar Barajas Tavares
 
 Repositorio que contiene ejercicios prácticos del curso. Acompañado de [contenido teórico](https://github.com/UboldiTIC/javascript/blob/main/asincronismo_con_JavaScript.md) que también se puede consultar en caso de dudas.
 
+**En Promise se encuentra la conexión con el CRUD del backend.**
